@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolae-George</h1>
 <h3 align="center">A passionate web designer and web developer</h3>
 
-- 🔭 I’m currently working on **a landing page for an romanian ONG called Vis Implinit**
+- 🔭 I’m currently working on **a landing page for an Romanian ONG called Vis Implinit**
 
 - 🌱 I’m currently learning **React.js,Next.js**
 
