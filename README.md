@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johngeo123" alt="johngeo123" /></a> </p>
 
-- 🔭 I’m currently working on **a landing page for an romanian ONG called Vis Implinit**
+- 🔭 I’m currently working as an Ambassador for Digital Nation and managing a construction business with my father.
 
 - 🌱 I’m currently learning **React.js,Next.js**
 
